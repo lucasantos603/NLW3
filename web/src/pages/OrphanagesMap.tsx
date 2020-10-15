@@ -48,7 +48,7 @@ function OrphanegesMap() {
                     <Popup closeButton={false} minWidth={240} maxWidth={240} className="map-popup">
                         Lar de Maria Dolores
 
-                        <Link to="/Orphanege/1">
+                        <Link to="/Orphaneges/1">
                             <FiArrowRight size ={20} color = "#fff"> </FiArrowRight>
                         </Link>
                     </Popup>
